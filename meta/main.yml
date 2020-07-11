@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Ondřej Hlaváč
+  description: Setup hostname
+  company: IDC-softwarehouse, s.r.o.
+  
+  license: BSD
+  
+  min_ansible_version: 2
+  
+  galaxy_tags:
+  - system
+  - hostname
+
+dependencies: []
